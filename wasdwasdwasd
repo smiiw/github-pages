@@ -1,0 +1,10 @@
+Celebrity Cafe's guide!
+      - Host says :m 🍵|Hello everyone! In today's training session I am {USERNAME}, your host for todays training session.
+      - Co-host says :m 🍵| Hello everyone! I may not be your host, but I am your co-host, If you have any questions during this session, please ask me or your trainer.
+    - Host says :m Your trainers today are {USERNAME} and {USERNAME}, if you have any questions while they are training you, please ask your trainer.
+    - Host says :m If you have no questions then we will being shortly.
+
+
+~         Make sure everyone is on their appropriate teams, if not then fix it accordingly to what they claimed as their role. ~
+
+    Trainer says - Hello everyone!
